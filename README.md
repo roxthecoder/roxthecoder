@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @roxthecoder
-- 👀 I’m interested in ... manna, anime, podcasting, videogames, code and linux
-- 🌱 I’m currently learning ... Linux (again)
+- 👀 I’m interested in ... manna, anime, podcasting, videogames, code and linux.
+- 🌱 I’m currently learning ... Linux (again).
 - 📫 How to reach me ... lafuriadelguardiancelta@gmail.com
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns: ... he/him.
 - ⚡ Fun fact: I almost got all the stars of the Pokémon Pearl on the Nintendo DS but I'm missing one that I guess I'll never get.
 
 <!---
