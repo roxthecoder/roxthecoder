@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roxthecoder
-- 👀 I’m interested in ... manna, anime, podcasting, videogames, code and linux.
+- 👀 I’m interested in ... manga, anime, podcasting, videogames, code and linux.
 - 🌱 I’m currently learning ... Linux (again).
 - 📫 How to reach me ... lafuriadelguardiancelta@gmail.com
 - 😄 Pronouns: ... he/him.
